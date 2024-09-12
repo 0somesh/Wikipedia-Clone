@@ -1,5 +1,5 @@
 # Wikipedia-Clone
 There are three files -
-Index.html
+1. Index.html
 Design.css
 Work.js
